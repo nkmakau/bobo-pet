@@ -9,7 +9,7 @@ Bobo is a cute little Elephant and wanted to have a website to showcase her life
 * open browser
 * enter the URL
 * Enjoy
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+Read all for fun.
 ## Known Bugs
 The site is not yet full done. Lacks styling.
 ## Technologies Used
